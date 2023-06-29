@@ -131,3 +131,7 @@ sys.set_int_max_str_digits(0)
 ```
 
 Closed formula for calculating Fibonacci numbers is not used as it involves raising floats to high powers which quickly overflow.
+
+##### Sources
+https://fabiandablander.com/r/Fibonacci.html  
+https://en.wikipedia.org/wiki/Fibonacci_sequence
